@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SharedViewModelFragment kt.iml" filepath="$PROJECT_DIR$/SharedViewModelFragment kt.iml" group="SharedViewModelFragment kt" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="SharedViewModelFragment kt/app" />
+    </modules>
+  </component>
+</project>
