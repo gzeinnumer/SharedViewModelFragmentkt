@@ -3,6 +3,7 @@
  
  - [ViewBinding](https://github.com/gzeinnumer/ViewBindingExample)
  - [SharedViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel?hl=id#sharing)
+ - [KTX ViewModel](https://github.com/gzeinnumer/ViewModelLiveDataExampleKT)
 
  - `Gradel`
  ```gradle
